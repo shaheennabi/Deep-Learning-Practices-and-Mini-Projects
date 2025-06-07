@@ -1,5 +1,5 @@
 # 🚀 Welcome to My Deep Learning & Math with Python Repository! 🎇
-ongoing...
+ongoing..
 
 Welcome to **Deep Learning** & **Mathematical Practices with Python**, where **theory meets code** and experiments turn into real-world applications! This repository is a collection of my **hands-on experiments** with **deep learning** techniques and the mathematical concepts behind them. If you’re passionate about building deep learning algorithms from scratch, understanding their mathematical foundation, and practicing coding techniques, you’re in the right place! 🔥
 
