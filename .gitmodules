@@ -1,6 +1,3 @@
-[submodule "SignLanguageDetection"]
-	path = SignLanguageDetection
-	url = https://github.com/shaheennabi/Production-Ready-Sign-Language-Object_detection-Project.git
 [submodule "HateSpeechClassifier"]
 	path = HateSpeechClassifier
 	url = https://github.com/shaheennabi/Production-Ready-End-to-End-Hate-Speech-Classification-Project.git
