@@ -1,6 +1,3 @@
-[submodule "HateSpeechClassifier"]
-	path = HateSpeechClassifier
-	url = https://github.com/shaheennabi/Production-Ready-End-to-End-Hate-Speech-Classification-Project.git
 [submodule "Production-Ready-Instruction-Finetuning-of-Meta-Llama-3.2-3B-Instruct-Project"]
 	path = Production-Ready-Instruction-Finetuning-of-Meta-Llama-3.2-3B-Instruct-Project
 	url = https://github.com/shaheennabi/Production-Ready-Instruction-Finetuning-of-Meta-Llama-3.2-3B-Instruct-Project.git
