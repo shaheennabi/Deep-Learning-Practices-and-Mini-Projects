@@ -10,3 +10,6 @@
 [submodule "Production-Ready-End-to-End-Hate-Speech-Classification-Project"]
 	path = Production-Ready-End-to-End-Hate-Speech-Classification-Project
 	url = https://github.com/shaheennabi/Production-Ready-End-to-End-Hate-Speech-Classification-Project.git
+[submodule "Production-Ready-Sign-Language-Object_detection-Project"]
+	path = Production-Ready-Sign-Language-Object_detection-Project
+	url = https://github.com/shaheennabi/Production-Ready-Sign-Language-Object_detection-Project.git
