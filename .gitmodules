@@ -1,0 +1,3 @@
+[submodule "SignLanguageDetection"]
+	path = SignLanguageDetection
+	url = https://github.com/shaheennabi/Production-Ready-Sign-Language-Object_detection-Project.git
