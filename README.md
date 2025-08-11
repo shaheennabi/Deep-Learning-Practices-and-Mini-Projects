@@ -8,8 +8,8 @@ Whether you are just starting your deep learning journey or a seasoned enthusias
 
 
 
-## 🛠 License & Usage 📄
+## License & Usage 
 
-This repository is licensed under the **MIT License** 🎉. You are free to use, modify, and distribute this repository in accordance with the terms of the license. 
+This repository is licensed under the **MIT License** . You are free to use, modify, and distribute this repository in accordance with the terms of the license. 
 
-Please make sure to give appropriate credit to the original author and reference the **license file** for detailed information. 🌟
+Please make sure to give appropriate credit to the original author and reference the **license file** for detailed information. 
