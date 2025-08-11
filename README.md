@@ -13,8 +13,3 @@ Whether you are just starting your deep learning journey or a seasoned enthusias
 This repository is licensed under the **MIT License** 🎉. You are free to use, modify, and distribute this repository in accordance with the terms of the license. 
 
 Please make sure to give appropriate credit to the original author and reference the **license file** for detailed information. 🌟
-
----
-
-🎆 **Let’s Unlock the Power of Deep Learning and Math with Python!** 🎇  
-Thank you for being a part of this journey. I hope this repository helps you learn, experiment, and grow as much as it helps me. Let’s continue pushing the limits of AI together! 🌐✨
